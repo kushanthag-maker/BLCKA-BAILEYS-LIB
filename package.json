@@ -1,0 +1,10 @@
+{
+  "name": "blcka-baileys-lib",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.0.0"
+  }
+}
